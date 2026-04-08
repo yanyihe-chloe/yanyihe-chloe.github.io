@@ -26,12 +26,12 @@ author:
   # Biographic information
   avatar: "IMG_2156-1-c.jpg" # filename of avatar image placed in /images/
   name: "Yanyi He"
-  pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  pronouns: "she/her" # example: "she/her"
+  bio: "Part-time Debugger \n\n M.Eng. in Computer Engineering, UVA \n\n B.Eng. in Automation, NAU"
   location: "Earth"
-  employer: "Red Brick University"
+  employer: "University of Virginia"
   uri: # URL
-  email: "none@example.org"
+  email: "heyanyi307@gmail.com"
 
   # Academic websites
   academia: # URL
@@ -64,7 +64,7 @@ author:
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: # Username
+  instagram: "hertz_chloe"
   lastfm: # Username
   linkedin: # Username
   mastodon: # URL
