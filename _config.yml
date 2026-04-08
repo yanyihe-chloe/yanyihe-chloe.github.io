@@ -27,7 +27,9 @@ author:
   avatar: "IMG_2156-1-c.jpg" # filename of avatar image placed in /images/
   name: "Yanyi He"
   pronouns: "she/her" # example: "she/her"
-  bio: "Part-time Debugger \n\n M.Eng. in Computer Engineering, UVA \n\n B.Eng. in Automation, NAU"
+  bio: "Part-time Debugger
+    M.Eng., UVA
+    B.Eng., NAU"
   location: "Earth"
   employer: "University of Virginia"
   uri: # URL
