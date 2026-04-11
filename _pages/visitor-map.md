@@ -11,11 +11,19 @@ author_profile: true
 <p>This map is powered by ClustrMaps and updates as visits are recorded.</p>
 
 <div style="max-width: 820px; margin: 1rem auto;">
+  {% if vm.widget == "map_v2" %}
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d={{ vm.clustrmaps_d }}&cl={{ vm.map_text_color | default: 'ffffff' }}&w={{ vm.map_width | default: 'a' }}">
+  </script>
+  {% else %}
   <script
     type="text/javascript"
     id="clstr_globe"
     src="//clustrmaps.com/globe.js?d={{ vm.clustrmaps_d }}">
   </script>
+  {% endif %}
 </div>
 
 <p style="font-size: 0.9em; opacity: 0.8;">

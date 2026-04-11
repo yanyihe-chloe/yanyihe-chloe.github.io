@@ -163,6 +163,9 @@ visitor_map:
   provider: "clustrmaps" # false (default), "clustrmaps"
   clustrmaps_d: "L39Ze3aVF_LV_JWWp9BEfOkyRCQSsSpavOOhlfsb-pM" # Fill with your ClustrMaps "d" key
   title: "Where Visitors Come From"
+  widget: "map_v2" # "map_v2" or "globe"
+  map_text_color: "ffffff"
+  map_width: "a" # "a" for auto
 
 # Reading Files
 include:
