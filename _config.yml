@@ -158,6 +158,12 @@ analytics:
   google:
     tracking_id:
 
+# Visitor origin map
+visitor_map:
+  provider: "clustrmaps" # false (default), "clustrmaps"
+  clustrmaps_d: "L39Ze3aVF_LV_JWWp9BEfOkyRCQSsSpavOOhlfsb-pM" # Fill with your ClustrMaps "d" key
+  title: "Where Visitors Come From"
+
 # Reading Files
 include:
   - .htaccess
