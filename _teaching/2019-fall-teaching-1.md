@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
 venue: "Nanjing Agricultural University, School of Artificial Intelligence"
 date: 2019-09-01
+teaching_period: "2019-2022"
 location: "Nanjing, China"
 ---
 

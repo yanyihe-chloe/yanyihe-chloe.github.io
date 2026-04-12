@@ -8,6 +8,9 @@ date: 2026-03-08
 location: ""
 ---
 
+- Teach undergraduate-level courses in Computer Science and Artificial Intelligence.
+- Supervise student teams in the Challenge Cup competition and Undergraduate Innovation and Entrepreneurship Projects.
+
 # Heading 1
 
 # Heading 2
