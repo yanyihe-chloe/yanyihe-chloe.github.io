@@ -10,7 +10,7 @@ location: "Nanjing, China"
 
 - Led lab sessions, answered questions, and graded assignments.
 
-- Contributed to the lab manual: _Practical Computer Networking: Fundamentals, Setup, and Maintenance_ (2nd Edition), Contributor, ISBN: 9787302556138.
+- Contributed to the lab manual: Practical Computer Networking: Fundamentals, Setup, and Maintenance (2nd Edition), Contributor, ISBN: 9787302556138.
 
 # Heading 1
 
